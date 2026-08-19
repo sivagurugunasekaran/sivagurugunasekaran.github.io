@@ -14,7 +14,7 @@ export default function Hero() {
             Building scalable backend systems and modern web applications with a focus on performance, security, and clean architecture.
         </p>
         <div className="button-row">
-          <a className="primary-btn" href="#projects">
+          <a className="primary-btn" href="https://docs.google.com/document/d/1JRqXypG-tgTAZW_Q5dfBwNo13nLmVWz68SKDvuybAmU/edit?usp=sharing" target="_blank" rel="noopener noreferrer">
             View Resume
           </a>
           <a className="primary-btn" href="#contact">

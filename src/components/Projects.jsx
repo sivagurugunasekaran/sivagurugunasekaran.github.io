@@ -5,13 +5,13 @@ const projects = [
     title: 'Zhuttle',
     brief:
       'Zhuttle is an online shuttle booking platform built with Spring Boot, React and PostgreSQL that enables users to book shuttle seats for office commutes and events. It features dynamic route creation, multiple pickup points, real-time seat availability, secure authentication, and booking management through REST APIs.',
-    repo: 'https://github.com/'
+    repo: 'https://github.com/sivagurugunasekaran/zhuttle'
   },
   {
     title: 'Farm2Kitchen',
     brief:
       'Farm2Kitchen is an online marketplace connecting farmers directly with households and small businesses (hotels, eateries) for bulk purchase of perishable produce like onions, tomatoes, and potatoes. The platform features a dynamic, surge-style pricing engine that adjusts prices in real time based on simulated demand-supply signals, along with analytics dashboards showing seasonal price trends for both buyers and farmers. Built with Spring Boot, PostgreSQL and React, the project explores marketplace design, pricing algorithms, and time-series data visualization.',
-    repo: 'https://github.com/'
+    repo: 'https://github.com/sivagurugunasekaran/farm2kitchen'
   },
   
 ]
